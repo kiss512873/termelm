@@ -39,7 +39,8 @@
 
 | 平台 (Platform) | 下载文件类型 | 说明 |
 | :--- | :--- | :--- |
-| **Windows** | `TERMELM-windows-release.zip` | 绿色免安装或解压运行，支持 Windows 10/11 x64 |
+| **Windows (安装版)** | `TERMELM-Setup.exe` | 推荐：带桌面快捷方式与控制面板卸载的标准向导安装包 |
+| **Windows (绿色版)** | `TERMELM-windows-release.zip` | 免安装便携版，解压即用，支持 Windows 10/11 x64 |
 | **macOS** | `Termelm-1.0.0-universal.dmg` | 原生支持 Apple Silicon (M1/M2/M3) 及 Intel 架构 |
 | **Android** | `app-release.apk` | 经过永久稳定签名保护的官方 Release APK |
 | **iOS** | `Termelm.ipa` | 适用于 TrollStore、AltStore 或开发者自签安装 |
